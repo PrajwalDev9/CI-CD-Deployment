@@ -10,5 +10,5 @@ phases:
       - echo Build completed successfully
 artifacts:
   files:
-    - target/QuizApp-2.jar
+    - target/QuizApp-2-0.0.1-SNAPSHOT.jar
   discard-paths: yes
