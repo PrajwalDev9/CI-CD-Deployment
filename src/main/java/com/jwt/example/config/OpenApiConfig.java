@@ -15,7 +15,7 @@ import io.swagger.v3.oas.annotations.servers.Server;
 		servers = {
 				@Server(
 				description = "Local ENV",
-				url="http://localhost:8080/"
+				url="http://projectms.cv8a5x4dfyqp.us-east-2.rds.amazonaws.com:3307:8080/"
 				)
 		},
 		security= {
